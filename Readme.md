@@ -33,8 +33,8 @@ The solution employs an Intermediate Representation (IR) to bridge YAML input an
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone [your-repo-link]
-   cd sail-to-cgen-challenge
+   git clone https://github.com/Mahnoor-ismail01/Yaml_To_S-Expression.git
+   cd Yaml_To_S-Expression
 
 2. Install dependencies
    ```
