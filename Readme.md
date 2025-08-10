@@ -3,7 +3,8 @@
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python)  ![Status](https://img.shields.io/badge/Status-Completed-success)
 
-This repository contains a Python-based solution for the SAIL to CGEN Coding Challenge, part of the LFX Mentorship program. The challenge involves converting structured YAML data into S-expressions (Scheme-like dialect) using an Intermediate Representation (IR) approach. The solution demonstrates modular data transformation, robust error handling, and comprehensive testing, serving as a precursor to the main SAIL to CGEN project, which generates CGEN descriptions for GCC from SAIL-RISC-V specifications, focusing on a tensor/matrix multiply extension.# SAIL to CGEN Coding Challenge
+This repository contains a Python-based solution for the SAIL to CGEN Coding Challenge, part of the LFX Mentorship program. The challenge involves converting structured YAML data into S-expressions (Scheme-like dialect) using an Intermediate Representation (IR) approach. The solution demonstrates modular data transformation, robust error handling, and comprehensive testing, serving as a precursor to the main SAIL to CGEN project, which generates CGEN descriptions for GCC from SAIL-RISC-V specifications, focusing on a tensor/matrix multiply extension.
+# SAIL to CGEN Coding Challenge
 
 
 
